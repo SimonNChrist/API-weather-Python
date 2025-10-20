@@ -16,9 +16,9 @@ Detects user location automatically, saves last searched city and displays tempe
 - emoji-based conditions display
 
 ## how to run
-1. Make sure you have [Python 3](https://www.python.org/downloads/) installed.
+1. Make sure you have [Python 3](https://www.python.org/downloads/) installed
 2. Install the required libraries
-3. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api).
+3. Get a free API key from [OpenWeatherMap](https://openweathermap.org/api)
 4. Add your API key inside the script where it says: CHAVE_API = "  "
 5. Run the program in the terminal
 
