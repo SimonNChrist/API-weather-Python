@@ -23,4 +23,4 @@ Detects user location automatically, saves last searched city and displays tempe
 5. Run the program in the terminal
 
 ## what I learned
-Working with APIs, JSON data, and persistent file storage
+Working with APIs, JSON data and persistent file storage
