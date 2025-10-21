@@ -3,7 +3,7 @@ import json
 import os
 
 #configuracao
-CHAVE_API = "8ba83ed4071db02550b1dca06402f6be"
+CHAVE_API = " "
 ARQUIVO_ULTIMA_CIDADE = "ultima_cidade.txt"
 
 def obter_local_ip():
@@ -107,3 +107,4 @@ def main():
 #executa o programa
 if __name__ == "__main__":
     main()
+
