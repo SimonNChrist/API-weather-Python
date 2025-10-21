@@ -1,9 +1,12 @@
 import requests
 import json
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 #configuracao
-CHAVE_API = " "
+CHAVE_API = os.getenv("CHAVE_API_OPENWEATHER")
 ARQUIVO_ULTIMA_CIDADE = "ultima_cidade.txt"
 
 def obter_local_ip():
@@ -107,4 +110,5 @@ def main():
 #executa o programa
 if __name__ == "__main__":
     main()
+
 
